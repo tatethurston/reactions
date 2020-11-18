@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noEmitOnError": false,
+    "outDir": "dist",
+    "removeComments": true,
+    "resolveJsonModule": true,
+    "rootDir": "src/backend",
+    "skipLibCheck": true,
+    "sourceMap": false,
+    "strict": true,
+    "target": "ES2019"
+  },
+  "exclude": ["node_modules", "dist"]
+}
